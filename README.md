@@ -1,2 +1,2 @@
 # data-structures
-`数组 <https://github.com/muyuncloud/data-structures/tree/master/Array>`_\
+[数组](https://github.com/muyuncloud/data-structures/tree/master/Array "java实现")
