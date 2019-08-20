@@ -51,7 +51,7 @@ func add(index, e){
 4. 删除指定索引的数据，下方有个删除的对应的步骤图
 ![](https://upload-images.jianshu.io/upload_images/9629214-5c0f88011a1c599c.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)  
 ①删除的逻辑为要把从索引开始的数据向前移动一位
-②移动所有的位置后，剩余的位置可以置空，也可以不置空，可以定义一位偏移量也可
+②移动所有的位置后，剩余的位置可以置空，也可以不置空，可以定义一位偏移量也可。时间复杂度为O(n)。
 ```
 //伪代码
 func remove(index){
